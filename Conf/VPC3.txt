@@ -1,0 +1,5 @@
+VPC3> show
+
+NAME   IP/MASK              GATEWAY                             GATEWAY
+VPC3   192.168.30.100/24    192.168.30.1
+       fe80::250:79ff:fe66:6809/64
